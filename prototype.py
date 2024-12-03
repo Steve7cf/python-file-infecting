@@ -1,9 +1,9 @@
 import os
 import sys
-from tkinter import *
 
 
-# run this codes on your risk
+
+# run this codes on your own risk
 
 try:
     host_files = []
